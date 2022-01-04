@@ -1,6 +1,6 @@
 # CHATBOT System
 
-a chat system that listens to it users stories when they feel bad and talks about various topics on a list...
+A chat system that listens to it users stories when they feel bad and talks about various topics on a list...
 
 ## Table of Contents
 
