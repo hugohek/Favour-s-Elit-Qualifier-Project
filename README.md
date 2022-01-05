@@ -1,6 +1,6 @@
-# Title
+# CHATBOT System
 
-Simple (or clever and funny?) description
+A chat system that listens to it users stories when they feel bad and talks about various topics on a list...
 
 ## Table of Contents
 
@@ -12,14 +12,15 @@ Simple (or clever and funny?) description
 
 ## Background
 
-This is why this application exists.
+The Chat-bot system exist to listen to users rant on about how they feel recieving encouraging statements in other to feel better OR the could talk about leading topics in society such as houshold, religion, school, polotics and more.
 
 ## Install
 
-These are the steps to setup your local environment to run this application.
+This code is on both the repl.it and github platform using python. Comments are written along the way to help other developers understand the program as they read or change it.
 
 ## Usage
 
-These are the steps to use the application or interact with it.
+1. click run
+2. Instrustions are given by computer to on how to quit chat
 
 ### Any optional sections
