@@ -1,4 +1,4 @@
-﻿Amused
+Amused
 Awed
 Bouncy
 Calm
@@ -21,6 +21,7 @@ Flirty
 Giddy
 Grateful
 Harmonious
+happy
 Hopeful
 hyper 
 idyllic
@@ -53,3 +54,4 @@ trustful
 Vivacious
 Warm
 welcoming
+happy

@@ -1,4 +1,4 @@
-﻿aggravated 
+aggravated 
 Annoyed
 Anxious
 Apathetic
@@ -74,3 +74,5 @@ crying
 dreadful
 tired
 dying
+cried
+tiring

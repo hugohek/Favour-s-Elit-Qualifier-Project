@@ -1,0 +1,4 @@
+#fixes error unable to run, main file"main.sh not found
+
+language = "bash"
+run = "python main.py"
